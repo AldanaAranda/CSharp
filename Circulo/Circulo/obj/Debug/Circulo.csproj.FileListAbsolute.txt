@@ -1,0 +1,11 @@
+C:\Users\Usuario\Documents\Laboratorio UTN\Circulo\Circulo\bin\Debug\Circulo.exe.config
+C:\Users\Usuario\Documents\Laboratorio UTN\Circulo\Circulo\bin\Debug\Circulo.exe
+C:\Users\Usuario\Documents\Laboratorio UTN\Circulo\Circulo\bin\Debug\Circulo.pdb
+C:\Users\Usuario\Documents\Laboratorio UTN\Circulo\Circulo\obj\Debug\Circulo.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\Laboratorio UTN\Circulo\Circulo\obj\Debug\Circulo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\Documents\Laboratorio UTN\Circulo\Circulo\obj\Debug\Circulo.fCirculo.resources
+C:\Users\Usuario\Documents\Laboratorio UTN\Circulo\Circulo\obj\Debug\Circulo.Properties.Resources.resources
+C:\Users\Usuario\Documents\Laboratorio UTN\Circulo\Circulo\obj\Debug\Circulo.csproj.GenerateResource.cache
+C:\Users\Usuario\Documents\Laboratorio UTN\Circulo\Circulo\obj\Debug\Circulo.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Laboratorio UTN\Circulo\Circulo\obj\Debug\Circulo.exe
+C:\Users\Usuario\Documents\Laboratorio UTN\Circulo\Circulo\obj\Debug\Circulo.pdb
