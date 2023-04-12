@@ -1,0 +1,11 @@
+C:\Users\Usuario\Documents\Laboratorio UTN\TerrenoRectangular\TerrenoRectangular\bin\Debug\TerrenoRectangular.exe.config
+C:\Users\Usuario\Documents\Laboratorio UTN\TerrenoRectangular\TerrenoRectangular\bin\Debug\TerrenoRectangular.exe
+C:\Users\Usuario\Documents\Laboratorio UTN\TerrenoRectangular\TerrenoRectangular\bin\Debug\TerrenoRectangular.pdb
+C:\Users\Usuario\Documents\Laboratorio UTN\TerrenoRectangular\TerrenoRectangular\obj\Debug\TerrenoRectangular.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\Laboratorio UTN\TerrenoRectangular\TerrenoRectangular\obj\Debug\TerrenoRectangular.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\Documents\Laboratorio UTN\TerrenoRectangular\TerrenoRectangular\obj\Debug\TerrenoRectangular.fTerreno.resources
+C:\Users\Usuario\Documents\Laboratorio UTN\TerrenoRectangular\TerrenoRectangular\obj\Debug\TerrenoRectangular.Properties.Resources.resources
+C:\Users\Usuario\Documents\Laboratorio UTN\TerrenoRectangular\TerrenoRectangular\obj\Debug\TerrenoRectangular.csproj.GenerateResource.cache
+C:\Users\Usuario\Documents\Laboratorio UTN\TerrenoRectangular\TerrenoRectangular\obj\Debug\TerrenoRectangular.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Laboratorio UTN\TerrenoRectangular\TerrenoRectangular\obj\Debug\TerrenoRectangular.exe
+C:\Users\Usuario\Documents\Laboratorio UTN\TerrenoRectangular\TerrenoRectangular\obj\Debug\TerrenoRectangular.pdb
