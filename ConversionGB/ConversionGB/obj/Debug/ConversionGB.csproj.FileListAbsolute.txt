@@ -1,0 +1,11 @@
+C:\Users\Usuario\Documents\Laboratorio UTN\ConversionGB\ConversionGB\bin\Debug\ConversionGB.exe.config
+C:\Users\Usuario\Documents\Laboratorio UTN\ConversionGB\ConversionGB\bin\Debug\ConversionGB.exe
+C:\Users\Usuario\Documents\Laboratorio UTN\ConversionGB\ConversionGB\bin\Debug\ConversionGB.pdb
+C:\Users\Usuario\Documents\Laboratorio UTN\ConversionGB\ConversionGB\obj\Debug\ConversionGB.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\Laboratorio UTN\ConversionGB\ConversionGB\obj\Debug\ConversionGB.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\Documents\Laboratorio UTN\ConversionGB\ConversionGB\obj\Debug\ConversionGB.fConversion.resources
+C:\Users\Usuario\Documents\Laboratorio UTN\ConversionGB\ConversionGB\obj\Debug\ConversionGB.Properties.Resources.resources
+C:\Users\Usuario\Documents\Laboratorio UTN\ConversionGB\ConversionGB\obj\Debug\ConversionGB.csproj.GenerateResource.cache
+C:\Users\Usuario\Documents\Laboratorio UTN\ConversionGB\ConversionGB\obj\Debug\ConversionGB.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Laboratorio UTN\ConversionGB\ConversionGB\obj\Debug\ConversionGB.exe
+C:\Users\Usuario\Documents\Laboratorio UTN\ConversionGB\ConversionGB\obj\Debug\ConversionGB.pdb
