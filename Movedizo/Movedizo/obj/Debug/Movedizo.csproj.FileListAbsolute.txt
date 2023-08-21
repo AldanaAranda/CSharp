@@ -1,0 +1,11 @@
+C:\Users\Usuario\Documents\Laboratorio UTN\Movedizo\Movedizo\bin\Debug\Movedizo.exe.config
+C:\Users\Usuario\Documents\Laboratorio UTN\Movedizo\Movedizo\bin\Debug\Movedizo.exe
+C:\Users\Usuario\Documents\Laboratorio UTN\Movedizo\Movedizo\bin\Debug\Movedizo.pdb
+C:\Users\Usuario\Documents\Laboratorio UTN\Movedizo\Movedizo\obj\Debug\Movedizo.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\Laboratorio UTN\Movedizo\Movedizo\obj\Debug\Movedizo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\Documents\Laboratorio UTN\Movedizo\Movedizo\obj\Debug\Movedizo.FMovedizo.resources
+C:\Users\Usuario\Documents\Laboratorio UTN\Movedizo\Movedizo\obj\Debug\Movedizo.Properties.Resources.resources
+C:\Users\Usuario\Documents\Laboratorio UTN\Movedizo\Movedizo\obj\Debug\Movedizo.csproj.GenerateResource.cache
+C:\Users\Usuario\Documents\Laboratorio UTN\Movedizo\Movedizo\obj\Debug\Movedizo.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Laboratorio UTN\Movedizo\Movedizo\obj\Debug\Movedizo.exe
+C:\Users\Usuario\Documents\Laboratorio UTN\Movedizo\Movedizo\obj\Debug\Movedizo.pdb
