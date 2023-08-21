@@ -1,0 +1,11 @@
+C:\Users\Usuario\Documents\Laboratorio UTN\SumaDigitos\SumaDigitos\bin\Debug\SumaDigitos.exe.config
+C:\Users\Usuario\Documents\Laboratorio UTN\SumaDigitos\SumaDigitos\bin\Debug\SumaDigitos.exe
+C:\Users\Usuario\Documents\Laboratorio UTN\SumaDigitos\SumaDigitos\bin\Debug\SumaDigitos.pdb
+C:\Users\Usuario\Documents\Laboratorio UTN\SumaDigitos\SumaDigitos\obj\Debug\SumaDigitos.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\Laboratorio UTN\SumaDigitos\SumaDigitos\obj\Debug\SumaDigitos.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\Documents\Laboratorio UTN\SumaDigitos\SumaDigitos\obj\Debug\SumaDigitos.FSuma.resources
+C:\Users\Usuario\Documents\Laboratorio UTN\SumaDigitos\SumaDigitos\obj\Debug\SumaDigitos.Properties.Resources.resources
+C:\Users\Usuario\Documents\Laboratorio UTN\SumaDigitos\SumaDigitos\obj\Debug\SumaDigitos.csproj.GenerateResource.cache
+C:\Users\Usuario\Documents\Laboratorio UTN\SumaDigitos\SumaDigitos\obj\Debug\SumaDigitos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Laboratorio UTN\SumaDigitos\SumaDigitos\obj\Debug\SumaDigitos.exe
+C:\Users\Usuario\Documents\Laboratorio UTN\SumaDigitos\SumaDigitos\obj\Debug\SumaDigitos.pdb
