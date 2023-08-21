@@ -1,0 +1,11 @@
+C:\Users\Usuario\Documents\Laboratorio UTN\MezclaColores\MezclaColores\bin\Debug\MezclaColores.exe.config
+C:\Users\Usuario\Documents\Laboratorio UTN\MezclaColores\MezclaColores\bin\Debug\MezclaColores.exe
+C:\Users\Usuario\Documents\Laboratorio UTN\MezclaColores\MezclaColores\bin\Debug\MezclaColores.pdb
+C:\Users\Usuario\Documents\Laboratorio UTN\MezclaColores\MezclaColores\obj\Debug\MezclaColores.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\Laboratorio UTN\MezclaColores\MezclaColores\obj\Debug\MezclaColores.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\Documents\Laboratorio UTN\MezclaColores\MezclaColores\obj\Debug\MezclaColores.FColores.resources
+C:\Users\Usuario\Documents\Laboratorio UTN\MezclaColores\MezclaColores\obj\Debug\MezclaColores.Properties.Resources.resources
+C:\Users\Usuario\Documents\Laboratorio UTN\MezclaColores\MezclaColores\obj\Debug\MezclaColores.csproj.GenerateResource.cache
+C:\Users\Usuario\Documents\Laboratorio UTN\MezclaColores\MezclaColores\obj\Debug\MezclaColores.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Laboratorio UTN\MezclaColores\MezclaColores\obj\Debug\MezclaColores.exe
+C:\Users\Usuario\Documents\Laboratorio UTN\MezclaColores\MezclaColores\obj\Debug\MezclaColores.pdb
