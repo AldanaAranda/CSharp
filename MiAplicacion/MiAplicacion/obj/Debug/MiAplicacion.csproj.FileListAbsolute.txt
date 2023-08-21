@@ -1,0 +1,11 @@
+C:\Users\Usuario\Documents\Laboratorio UTN\MiAplicacion\MiAplicacion\bin\Debug\MiAplicacion.exe.config
+C:\Users\Usuario\Documents\Laboratorio UTN\MiAplicacion\MiAplicacion\bin\Debug\MiAplicacion.exe
+C:\Users\Usuario\Documents\Laboratorio UTN\MiAplicacion\MiAplicacion\bin\Debug\MiAplicacion.pdb
+C:\Users\Usuario\Documents\Laboratorio UTN\MiAplicacion\MiAplicacion\obj\Debug\MiAplicacion.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\Laboratorio UTN\MiAplicacion\MiAplicacion\obj\Debug\MiAplicacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\Documents\Laboratorio UTN\MiAplicacion\MiAplicacion\obj\Debug\MiAplicacion.Form1.resources
+C:\Users\Usuario\Documents\Laboratorio UTN\MiAplicacion\MiAplicacion\obj\Debug\MiAplicacion.Properties.Resources.resources
+C:\Users\Usuario\Documents\Laboratorio UTN\MiAplicacion\MiAplicacion\obj\Debug\MiAplicacion.csproj.GenerateResource.cache
+C:\Users\Usuario\Documents\Laboratorio UTN\MiAplicacion\MiAplicacion\obj\Debug\MiAplicacion.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Laboratorio UTN\MiAplicacion\MiAplicacion\obj\Debug\MiAplicacion.exe
+C:\Users\Usuario\Documents\Laboratorio UTN\MiAplicacion\MiAplicacion\obj\Debug\MiAplicacion.pdb
