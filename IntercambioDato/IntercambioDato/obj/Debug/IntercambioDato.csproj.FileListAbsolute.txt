@@ -1,0 +1,11 @@
+C:\Users\Usuario\Documents\Laboratorio UTN\IntercambioDato\IntercambioDato\bin\Debug\IntercambioDato.exe.config
+C:\Users\Usuario\Documents\Laboratorio UTN\IntercambioDato\IntercambioDato\bin\Debug\IntercambioDato.exe
+C:\Users\Usuario\Documents\Laboratorio UTN\IntercambioDato\IntercambioDato\bin\Debug\IntercambioDato.pdb
+C:\Users\Usuario\Documents\Laboratorio UTN\IntercambioDato\IntercambioDato\obj\Debug\IntercambioDato.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\Laboratorio UTN\IntercambioDato\IntercambioDato\obj\Debug\IntercambioDato.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\Documents\Laboratorio UTN\IntercambioDato\IntercambioDato\obj\Debug\IntercambioDato.fIntercambio.resources
+C:\Users\Usuario\Documents\Laboratorio UTN\IntercambioDato\IntercambioDato\obj\Debug\IntercambioDato.Properties.Resources.resources
+C:\Users\Usuario\Documents\Laboratorio UTN\IntercambioDato\IntercambioDato\obj\Debug\IntercambioDato.csproj.GenerateResource.cache
+C:\Users\Usuario\Documents\Laboratorio UTN\IntercambioDato\IntercambioDato\obj\Debug\IntercambioDato.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Laboratorio UTN\IntercambioDato\IntercambioDato\obj\Debug\IntercambioDato.exe
+C:\Users\Usuario\Documents\Laboratorio UTN\IntercambioDato\IntercambioDato\obj\Debug\IntercambioDato.pdb
