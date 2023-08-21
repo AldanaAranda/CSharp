@@ -1,0 +1,11 @@
+C:\Users\Usuario\Documents\Laboratorio UTN\SumaTiempo\SumaTiempo\bin\Debug\SumaTiempo.exe.config
+C:\Users\Usuario\Documents\Laboratorio UTN\SumaTiempo\SumaTiempo\bin\Debug\SumaTiempo.exe
+C:\Users\Usuario\Documents\Laboratorio UTN\SumaTiempo\SumaTiempo\bin\Debug\SumaTiempo.pdb
+C:\Users\Usuario\Documents\Laboratorio UTN\SumaTiempo\SumaTiempo\obj\Debug\SumaTiempo.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\Laboratorio UTN\SumaTiempo\SumaTiempo\obj\Debug\SumaTiempo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\Documents\Laboratorio UTN\SumaTiempo\SumaTiempo\obj\Debug\SumaTiempo.FTiempo.resources
+C:\Users\Usuario\Documents\Laboratorio UTN\SumaTiempo\SumaTiempo\obj\Debug\SumaTiempo.Properties.Resources.resources
+C:\Users\Usuario\Documents\Laboratorio UTN\SumaTiempo\SumaTiempo\obj\Debug\SumaTiempo.csproj.GenerateResource.cache
+C:\Users\Usuario\Documents\Laboratorio UTN\SumaTiempo\SumaTiempo\obj\Debug\SumaTiempo.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Laboratorio UTN\SumaTiempo\SumaTiempo\obj\Debug\SumaTiempo.exe
+C:\Users\Usuario\Documents\Laboratorio UTN\SumaTiempo\SumaTiempo\obj\Debug\SumaTiempo.pdb
