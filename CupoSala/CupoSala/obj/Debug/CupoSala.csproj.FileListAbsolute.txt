@@ -9,3 +9,14 @@ C:\Users\Usuario\Documents\Laboratorio UTN\CupoSala\CupoSala\obj\Debug\CupoSala.
 C:\Users\Usuario\Documents\Laboratorio UTN\CupoSala\CupoSala\obj\Debug\CupoSala.csproj.CoreCompileInputs.cache
 C:\Users\Usuario\Documents\Laboratorio UTN\CupoSala\CupoSala\obj\Debug\CupoSala.exe
 C:\Users\Usuario\Documents\Laboratorio UTN\CupoSala\CupoSala\obj\Debug\CupoSala.pdb
+C:\Users\Usuario\Documents\C#\CupoSala\CupoSala\bin\Debug\CupoSala.exe.config
+C:\Users\Usuario\Documents\C#\CupoSala\CupoSala\bin\Debug\CupoSala.exe
+C:\Users\Usuario\Documents\C#\CupoSala\CupoSala\bin\Debug\CupoSala.pdb
+C:\Users\Usuario\Documents\C#\CupoSala\CupoSala\obj\Debug\CupoSala.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\C#\CupoSala\CupoSala\obj\Debug\CupoSala.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\Documents\C#\CupoSala\CupoSala\obj\Debug\CupoSala.FSala.resources
+C:\Users\Usuario\Documents\C#\CupoSala\CupoSala\obj\Debug\CupoSala.Properties.Resources.resources
+C:\Users\Usuario\Documents\C#\CupoSala\CupoSala\obj\Debug\CupoSala.csproj.GenerateResource.cache
+C:\Users\Usuario\Documents\C#\CupoSala\CupoSala\obj\Debug\CupoSala.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\C#\CupoSala\CupoSala\obj\Debug\CupoSala.exe
+C:\Users\Usuario\Documents\C#\CupoSala\CupoSala\obj\Debug\CupoSala.pdb

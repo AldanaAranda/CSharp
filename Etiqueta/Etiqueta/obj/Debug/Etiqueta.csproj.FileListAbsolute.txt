@@ -1,0 +1,11 @@
+C:\Users\Usuario\Documents\Laboratorio UTN\Etiqueta\Etiqueta\bin\Debug\Etiqueta.exe.config
+C:\Users\Usuario\Documents\Laboratorio UTN\Etiqueta\Etiqueta\bin\Debug\Etiqueta.exe
+C:\Users\Usuario\Documents\Laboratorio UTN\Etiqueta\Etiqueta\bin\Debug\Etiqueta.pdb
+C:\Users\Usuario\Documents\Laboratorio UTN\Etiqueta\Etiqueta\obj\Debug\Etiqueta.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\Laboratorio UTN\Etiqueta\Etiqueta\obj\Debug\Etiqueta.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\Documents\Laboratorio UTN\Etiqueta\Etiqueta\obj\Debug\Etiqueta.FEtiqueta.resources
+C:\Users\Usuario\Documents\Laboratorio UTN\Etiqueta\Etiqueta\obj\Debug\Etiqueta.Properties.Resources.resources
+C:\Users\Usuario\Documents\Laboratorio UTN\Etiqueta\Etiqueta\obj\Debug\Etiqueta.csproj.GenerateResource.cache
+C:\Users\Usuario\Documents\Laboratorio UTN\Etiqueta\Etiqueta\obj\Debug\Etiqueta.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Laboratorio UTN\Etiqueta\Etiqueta\obj\Debug\Etiqueta.exe
+C:\Users\Usuario\Documents\Laboratorio UTN\Etiqueta\Etiqueta\obj\Debug\Etiqueta.pdb
