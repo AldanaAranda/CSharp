@@ -1,0 +1,11 @@
+C:\Users\Usuario\Documents\Laboratorio UTN\VueltoCompra\VueltoCompra\bin\Debug\VueltoCompra.exe.config
+C:\Users\Usuario\Documents\Laboratorio UTN\VueltoCompra\VueltoCompra\bin\Debug\VueltoCompra.exe
+C:\Users\Usuario\Documents\Laboratorio UTN\VueltoCompra\VueltoCompra\bin\Debug\VueltoCompra.pdb
+C:\Users\Usuario\Documents\Laboratorio UTN\VueltoCompra\VueltoCompra\obj\Debug\VueltoCompra.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\Laboratorio UTN\VueltoCompra\VueltoCompra\obj\Debug\VueltoCompra.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\Documents\Laboratorio UTN\VueltoCompra\VueltoCompra\obj\Debug\VueltoCompra.fVuelto.resources
+C:\Users\Usuario\Documents\Laboratorio UTN\VueltoCompra\VueltoCompra\obj\Debug\VueltoCompra.Properties.Resources.resources
+C:\Users\Usuario\Documents\Laboratorio UTN\VueltoCompra\VueltoCompra\obj\Debug\VueltoCompra.csproj.GenerateResource.cache
+C:\Users\Usuario\Documents\Laboratorio UTN\VueltoCompra\VueltoCompra\obj\Debug\VueltoCompra.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Laboratorio UTN\VueltoCompra\VueltoCompra\obj\Debug\VueltoCompra.exe
+C:\Users\Usuario\Documents\Laboratorio UTN\VueltoCompra\VueltoCompra\obj\Debug\VueltoCompra.pdb
