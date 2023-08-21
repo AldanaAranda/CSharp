@@ -1,0 +1,11 @@
+C:\Users\Usuario\Documents\Laboratorio UTN\ViajeEnAuto\ViajeEnAuto\bin\Debug\ViajeEnAuto.exe.config
+C:\Users\Usuario\Documents\Laboratorio UTN\ViajeEnAuto\ViajeEnAuto\bin\Debug\ViajeEnAuto.exe
+C:\Users\Usuario\Documents\Laboratorio UTN\ViajeEnAuto\ViajeEnAuto\bin\Debug\ViajeEnAuto.pdb
+C:\Users\Usuario\Documents\Laboratorio UTN\ViajeEnAuto\ViajeEnAuto\obj\Debug\ViajeEnAuto.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\Laboratorio UTN\ViajeEnAuto\ViajeEnAuto\obj\Debug\ViajeEnAuto.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\Documents\Laboratorio UTN\ViajeEnAuto\ViajeEnAuto\obj\Debug\ViajeEnAuto.FViaje.resources
+C:\Users\Usuario\Documents\Laboratorio UTN\ViajeEnAuto\ViajeEnAuto\obj\Debug\ViajeEnAuto.Properties.Resources.resources
+C:\Users\Usuario\Documents\Laboratorio UTN\ViajeEnAuto\ViajeEnAuto\obj\Debug\ViajeEnAuto.csproj.GenerateResource.cache
+C:\Users\Usuario\Documents\Laboratorio UTN\ViajeEnAuto\ViajeEnAuto\obj\Debug\ViajeEnAuto.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Laboratorio UTN\ViajeEnAuto\ViajeEnAuto\obj\Debug\ViajeEnAuto.exe
+C:\Users\Usuario\Documents\Laboratorio UTN\ViajeEnAuto\ViajeEnAuto\obj\Debug\ViajeEnAuto.pdb
