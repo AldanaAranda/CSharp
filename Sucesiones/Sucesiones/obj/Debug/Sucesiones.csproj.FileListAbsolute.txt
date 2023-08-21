@@ -1,0 +1,11 @@
+C:\Users\Usuario\Documents\Laboratorio UTN\Sucesiones\Sucesiones\bin\Debug\Sucesiones.exe.config
+C:\Users\Usuario\Documents\Laboratorio UTN\Sucesiones\Sucesiones\bin\Debug\Sucesiones.exe
+C:\Users\Usuario\Documents\Laboratorio UTN\Sucesiones\Sucesiones\bin\Debug\Sucesiones.pdb
+C:\Users\Usuario\Documents\Laboratorio UTN\Sucesiones\Sucesiones\obj\Debug\Sucesiones.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\Laboratorio UTN\Sucesiones\Sucesiones\obj\Debug\Sucesiones.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\Documents\Laboratorio UTN\Sucesiones\Sucesiones\obj\Debug\Sucesiones.Properties.Resources.resources
+C:\Users\Usuario\Documents\Laboratorio UTN\Sucesiones\Sucesiones\obj\Debug\Sucesiones.csproj.GenerateResource.cache
+C:\Users\Usuario\Documents\Laboratorio UTN\Sucesiones\Sucesiones\obj\Debug\Sucesiones.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Laboratorio UTN\Sucesiones\Sucesiones\obj\Debug\Sucesiones.exe
+C:\Users\Usuario\Documents\Laboratorio UTN\Sucesiones\Sucesiones\obj\Debug\Sucesiones.pdb
+C:\Users\Usuario\Documents\Laboratorio UTN\Sucesiones\Sucesiones\obj\Debug\Sucesiones.FSucesiones.resources
